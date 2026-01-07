@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="walkthrough.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[▶️ Watch the walkthrough video](https://drive.google.com/drive/folders/1y-c1KuApFw9uIR4AP9HYjSux-ijtEQTa)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) 
